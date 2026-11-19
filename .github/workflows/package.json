@@ -1,0 +1,32 @@
+{
+	"name": "admin.net",
+	"type": "module",
+	"version": "2.4.33",
+	"packageManager": "pnpm@10.32.1",
+	"lastBuildTime": "2026.03.15",
+	"description": "Admin.NET 站在巨人肩膀上的 .NET 通用权限开发框架",
+	"author": "zuohuaijun",
+	"license": "MIT",
+	"scripts": {
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"pnpm": {
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not dead"
+	],
+	"engines": {
+		"node": ">=18.0.0",
+		"npm": ">= 7.0.0"
+	},
+	"keywords": [
+		"admin.net",
+		"vue",
+		"vue3"
+	]
+}
